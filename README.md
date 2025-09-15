@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=souhailchenaoua&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhailchenaoua&layout=compact&theme=tokyonight" />
-</div> 
+</div>
 
 ---
  
