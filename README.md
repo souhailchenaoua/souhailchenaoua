@@ -15,7 +15,7 @@
 - 📱 Created an open-source **Flutter payment plugin** for Amwal used by developers across KSA
 - 🌍 Collaborated with the **International Labour Organization** on global labor data reporting tools
 - 📊 Developed ETL pipelines and SQL systems supporting **real-time metrics** like localization rates
-- 🚀 Currently diving deeper into **DevOps**, **Informatica**, and **Data Engineering pipelines**
+- 🚀 Currently diving deeper into **UNITY**, and game development
 
 ---
 
